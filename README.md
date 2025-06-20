@@ -10,7 +10,6 @@ equestrian-shop/
 │   ├── index.php
 │   ├── products.php
 │   ├── add_product.php
-│   ├── db.php
 │   └── styles.css
 └── db/
     └── init.sql
