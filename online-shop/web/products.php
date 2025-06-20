@@ -20,7 +20,7 @@
             $host = 'db';
             $user = 'shop_user';
             $pass = 'shop_pass';
-            $db = 'shop_db';
+            $db = 'equestrian_db';
             
             $conn = new mysqli($host, $user, $pass, $db);
             
